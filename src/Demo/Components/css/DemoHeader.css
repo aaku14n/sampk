@@ -1,0 +1,15 @@
+.base {
+  width: 100%;
+  padding: 0px;
+  background-color: black;
+  color: beige;
+  display: flex;
+}
+.headerItem {
+  padding: 20px 20px;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0);
+}
+.headerItem:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}

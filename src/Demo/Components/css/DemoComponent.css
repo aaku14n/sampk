@@ -1,0 +1,19 @@
+.base {
+  padding: 40px;
+}
+.details {
+  border: solid 1px grey;
+  width: auto;
+}
+.button {
+  width: 150px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkorchid;
+  color: aliceblue;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
